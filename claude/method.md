@@ -40,6 +40,8 @@ Date: 2026-09-09. Not committed at the time of writing.
    `MAX_C` of kmtricks.
 5. Second round (this file): run commands added to each experiment, calculator section
    reworded, runner extended (RSS timeline, temp-disk sampling, `--cpr` flag).
+6. Third round: question and answer loop on the review ("what to conclude" blocks, `-b`
+   sizing, terms and notation in section 0), and `bugs.md` listing the defects found.
 
 Limits of the method: formulas come from reading buffer declarations and loops, not from
 measurements; the experiment plan is what turns them into constants. Line numbers refer
